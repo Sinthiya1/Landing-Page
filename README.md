@@ -33,11 +33,6 @@ This is a landing page using HTML and CSS.
 
 * It's done when, if the contact link is clicked, the page jumps directly to the contact form.
 
-
-
-#Link
-<a href="" Landing Page Website</a>
-
 * It's done when the contact form includes `input` elements for name and email.
 
 * It's done when the contact form includes a Send button.
@@ -45,4 +40,7 @@ This is a landing page using HTML and CSS.
 * It's done when the image includes a descriptive `alt` attribute.
 
 * It's done when the page is deployed to GitHub Pages.
+
+### Link
+<a href="https://sinthiya1.github.io/Landing-Page/" Landing Page Website</a>
 
