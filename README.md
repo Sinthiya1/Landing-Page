@@ -1,7 +1,7 @@
 # Mini-Project-1
 ### Description
 
-##This is a landing page using HTML and CSS. 
+This is a landing page using HTML and CSS. 
 
 ## Instructions
 
