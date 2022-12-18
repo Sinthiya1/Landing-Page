@@ -41,6 +41,6 @@ This is a landing page using HTML and CSS.
 
 * It's done when the page is deployed to GitHub Pages.
 
-### Link
+## Link
 <a href="https://sinthiya1.github.io/Landing-Page/" Landing Page Website</a>
 
